@@ -1,0 +1,15 @@
+.page {
+  min-width: 1100px;
+  max-width: 1600px;
+  margin: 0 auto;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+}
+
+.footer {
+    background-color: #1f1f1f;
+    min-height: 350px;
+    padding-top: 60px;
+    padding-bottom: 40px;
+    display: flex;
+    box-sizing: border-box;
+  }

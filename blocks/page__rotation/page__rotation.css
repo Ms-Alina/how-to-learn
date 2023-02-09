@@ -1,0 +1,16 @@
+@keyframes rotation {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.page__rotation {
+    -webkit-animation: rotation 20s linear infinite;
+    -moz-animation: rotation 20s linear infinite;
+    -o-animation: rotation 20s linear infinite;
+    -ms-animation: rotation 20s linear infinite;
+    animation: rotation 20s linear infinite;
+}

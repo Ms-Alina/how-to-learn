@@ -1,0 +1,10 @@
+.header__link {
+    text-decoration: none;
+    color:#2f80ed;
+    display: inline-block;
+    opacity: 1;
+    -webkit-transition: opacity 0.5s ease;
+    -moz-transition: opacity 0.5s ease;
+    -o-transition: opacity 0.5s ease;
+    transition: opacity 0.5s ease;
+  }
